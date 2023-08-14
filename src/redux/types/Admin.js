@@ -1,0 +1,9 @@
+export const CHANG_ADMIN_TAB = 'CHANG_ADMIN_TAB';
+export const GET_USER_BY_PAGE = 'GET_USER_BY_PAGE';
+export const GET_COURSE_BY_PAGE = 'GET_COURSE_BY_PAGE';
+export const ADD_NEW_COURSE = 'ADD_NEW_COURSE';
+export const DELETED_USER = 'DELETED_USER';
+export const DELETED_COURSE = 'DELETED_COURSE';
+export const GET_COURSE_BY_ID = 'GET_COURSE_BY_ID';
+export const UPDATE_COURSE = 'UPDATE_COURSE';
+export const ADD_NEW_TEACHER = 'ADD_NEW_TEACHER';

@@ -1,0 +1,8 @@
+export const LOGIN = 'LOGIN';
+export const REGISTER = 'REGISTER';
+export const GET_USER_PROFILE = 'GET_USER_PROFILE';
+export const GET_DETAIL_COURSE = 'GET_DETAIL_COURSE';
+export const REGISTER_NEW_COURSE = 'REGISTER_NEW_COURSE';
+export const CANCLE_REGISTED_COURSE = 'CANCLE_REGISTED_COURSE';
+export const UPDATE_USER_INFO = 'UPDATE_USER_INFO';
+export const LOG_OUT = 'LOG_OUT';

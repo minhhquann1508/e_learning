@@ -1,0 +1,22 @@
+.slick-slider {
+    overflow: hidden;
+  }
+  
+  .slick-list {
+    margin: 0 -30px; /* Điều chỉnh giảm khoảng cách lề để thanh cuộn không hiển thị */
+  }
+  .slick-arrow {
+    background-color: transparent !important;
+    border-radius: 50%;
+  } 
+  .slick-prev {
+    left: 0 !important;
+    z-index: 9;
+  }
+  .slick-next {
+    right: 0 !important;
+    z-index: 9;
+  }
+  .slick-arrow::before {
+    color: black !important;
+  }
